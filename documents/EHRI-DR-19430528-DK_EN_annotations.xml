@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://gitlab.inria.fr/dh-projects/workflow-ehri/-/raw/main/ODD/out/ODD-EHRI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="EHRI-DR-19430528-DK_EN" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="en">Erik Andreas Mathias Biering on "The Jewish Laws in Bulgaria" in 1943 (Annotations)</title>
+				<principal><affiliation><orgName>European Holocaust Research Infrastructure</orgName></affiliation></principal>
+			</titleStmt>
+			<publicationStmt>
+				<authority>
+					<ref target="https://www.ehri-project.eu/">European Holocaust Research Infrastructure</ref>
+				</authority>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title ref="https://www.ehri-project.eu/">EHRI Edition of Diplomatic Reports</title>
+			</seriesStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country ref="https://portal.ehri-project.eu/countries/dk">Denmark </country>
+						<repository ref="https://portal.ehri-project.eu/institutions/dk-002313"> Rigsarkivet Danish National Archives </repository>
+					</msIdentifier>
+					<physDesc/>
+				</msDesc>
+				<bibl>Rigsarkivet, 143.D.3, Gruppeordnede sager. <textLang mainLang="en">Original in Danish.</textLang></bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1943-05-28">28.05.1943</date>
+				<placeName ref="#bucharest">Bucharest</placeName>
+				<persName ref="#ehri_dr_biering_erik_andreas_mathias">Biering, Erik Andreas Mathias </persName>
+				<idno>EHRI-DR-19430528-DK</idno>
+			</creation>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="transcription">
+				<pb facs="EHRI-DK-19430528_01.jpg" n="1"/>
+				<p>The persecution of Jews in Bulgaria</p>
+				<p>The legation has the honour of dispatching to the Royal Ministry a report received from the Consulate of Sofia, No. 56. of 28 May
+					1943, on the above-quoted topic.</p>
+				<pb facs="EHRI-DK-19430528_02.jpg" n="2"/>
+				<p>With reference to previous reports, the Consulate hereby has the honour to report that according to a regulation of the Minister of
+					the Interior, published in the current Press on the 25th of this month, all Jews in Sofia must be moved to the Province. As
+					written in the Consulate's Report no. 94 from 1.9.1942 all unemployed Jews were to leave Sofia. However, since only a few Jews
+					have left Sofia, the Commission on Jewish Affairs is now carrying out an expulsion. Every Jewish family in Sofia is given a 3-day
+					time limit to leave Sofia, during which the provincial town is announced to which they have to relocate. Those Jews who do not
+					comply with this regulation will be expelled from the country immediately.</p>
+				<p>About 23,000 Jews are affected by this Regulation. In Sofia, there are approx. 25,000 Jews, and only Jews who are foreign
+					nationals, and Jews who are civilized mobilized can still remain in Sofia. In old Bulgaria, there are approx. 41,000 Jews,
+					including 18,000 in the Province. About 10,000 Jews are mobilized, and the majority are employed by >road construction
+					workers.</p>
+				<p>Erik Andreas Mathias Biering</p>
+			</div>
+		</body>
+	</text>
+</TEI>

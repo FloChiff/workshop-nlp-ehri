@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://gitlab.inria.fr/dh-projects/workflow-ehri/-/raw/main/ODD/out/ODD-EHRI.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="EHRI-DR-19430604-IT_EN" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="en">Dino Alfieri on the Situation in the General Government in 1943 (Annotations)</title>
+				<principal><affiliation><orgName>European Holocaust Research Infrastructure</orgName></affiliation></principal>
+			</titleStmt>
+			<publicationStmt>
+				<authority>
+					<ref target="https://www.ehri-project.eu/">European Holocaust Research Infrastructure</ref>
+				</authority>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title ref="https://www.ehri-project.eu/">EHRI Edition of Diplomatic Reports</title>
+			</seriesStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country ref="https://portal.ehri-project.eu/countries/it">Italy</country>
+						<repository ref="https://portal.ehri-project.eu/institutions/it-002863">Archivio Storico Diplomatico del Ministero degli
+							Affari Esteri</repository>
+					</msIdentifier>
+					<physDesc/>
+				</msDesc>
+				<bibl>Archivio Storico Diplomatico del Ministero degli Affari Esteri, Affari Politici 1923-1945, Polonia, busta 18. <textLang
+						mainLang="en">Original in Italian.</textLang></bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1943-06-04">4.6.1943</date>
+				<placeName ref="#berlin">Berlin</placeName>
+				<persName ref="#ehri_dr_alfieri_dino">Alfieri, Dino</persName>
+				<idno>EHRI-DR-19430604-IT</idno>
+			</creation>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="transcription">
+				<!--<p>EHRI-DR-19430604-IT_EN</p>      
+      <p>Report of the Ambassador in <placeName ref="#berlin"
+        >Berlin</placeName>, <persName ref="#ehri_dr_alfieri_dino">Dino Alfieri</persName>, to the <orgName
+          ref="#g005042">Foreign
+        Ministry</orgName>, <date when="1943-06-04">4.6.1943</date></p>   
+      <p>Cable No. 8466/1429</p>-->
+				<pb facs="EHRI-DR-19430604-IT_01.jpg" n="1"/>
+				<p>R. Embassy of Italy</p>
+				<p>Addressed to R. Ministry of Foreign Affairs</p>
+				<p>Very confidential</p>
+				<p>[Handwritten initials in red pencil:] M [Mussolini] V [visto = seen]</p>
+				<p>Berlin, 4th June 1943</p>
+				<p>Re: Situation in the General Governorate</p>
+				<p>Ref.: My Cable No. 8190/1374 of 28th May last</p>
+				<p>The Inspector of the Fasci in Germany, who has returned from a brief visit to Warsaw, has sent me the following report on the
+					situation in the Generalgouvernement General Governorate:</p>
+				<p>“After the latest air-raids by the Bolsheviks, the town appears very much damaged. It is estimated that the German bombings, when
+					Warsaw was conquered, damaged 15-20% of the buildings, and the damage inflicted by the Bolsheviks is estimated to be the same.
+					This means that 30-40% of the buildings are almost totally destroyed, every couple of hundred meters one comes upon large open
+					spaces covered with rubble. […]</p>
+				<pb facs="EHRI-DR-19430604-IT_02.jpg" n="2"/>
+				<p>In the ghetto, a vast area right in the centre of town and separated from it only by a high wall built for this purpose, when
+					German authorities requested that a few thousand Jews should be sent out to work in factories, the Jews refused to obey the order,
+					saying that they had not heard again from the Jews that had previously left the ghetto, As we know, a war ensued that is still
+					continuing. On the one side the Jews, of whom there are still perhaps about 15,000 and who have dug themselves in inside the
+					ghetto, building underground bunkers up to thirty meters deep, powerfully armoured and equipped with heavy and light machine guns,
+					who are supported and led by Bolsheviks sent from Moscow, and have huge stockpiles of food and ammunition that could last them for
+					years of fighting. On the other, SS units who systematically and without needlessly endangering the lives of their soldiers
+					advance from house to house, following even the sewers and the underground canals where fighting goes on, and subdue resistance.
+					The Gestapo Chief told me that he expects to subdue all resistance within a few weeks.</p>
+				<p>In this climate, while the population is being bombarded from the sky, mined underground by the fighting within the ghetto and by
+					the ghetto’s emissaries (Communists and Jews who have managed to leave the ghetto and are hiding in town) and forced on the ground
+					to rely on the black market to survive among all kinds of threats, secret organizations of Communists and Jews flourish, as well
+					as others by Polish nationalists, both of which try to prepare the revolt and for the time being want to cause terror among the
+					ruling group.</p>
+				<p>The organizers warn the German rulers and those Poles that are believed to sympathize with them that they will be liquidated, and
+					every day <pb facs="EHRI-DR-19430604-IT_03.jpg" n="3"/> there are murders taking place in circumstances worthy of a crime
+					thriller. I have seen Gestapo chiefs and Nazi party leaders, always in civilian clothes, going around with their revolver at the
+					ready. I have noticed that when they have to go somewhere, they resort to stratagems to mislead those who might be following them.
+					[…]</p>
+				<p>During my stay in Warsaw I have contacted local leaders of the General Governorate, of the Nazi party, of the Gestapo, of Russian
+					and Polish circles close to the German occupying authorities. […]</p>
+				<pb facs="EHRI-DR-19430604-IT_04.jpg" n="4"/>
+				<p>These same people suggest that a solution might be found by transforming the struggle, which right now has taken on the character
+					of an exclusively German struggle against Russia, thus endowing Stalin with a pedestal as Russia’s saviour, and having it revert,
+					as the Duce had suggested, to its true essence: the struggle of Europe, led by the Axis, against Bolshevism.</p>
+				<p>For this struggle one could rely on the organization of some millions of Russians who would fight even more fanatically than Axis
+					troops against the Bolsheviks to free their fatherland from Bolshevism. To this Russia military organization, the armed forces of
+					the Axis ought to provide the structure and, most importantly, the reserves.</p>
+				<p>To make the military struggle of the Axis against Bolshevism feasible in this manner one would have to establish, as a fundamental
+					prerequisite, the political conditions for the cooperation of all anti-Bolshevik Polish and Russia peoples on a political platform
+					that might look like this: Russia to the Russia – Poland to the Poles, both obviously under the control of the Axis powers and
+					their allies; war against Bolshevism; war against Jews; recognition of private property; a controlled freedom of trade.”</p>
+				<p>The Royal Ambassador</p>
+				<p>Alfieri </p>
+				<p> </p>
+			</div>
+		</body>
+	</text>
+</TEI>
