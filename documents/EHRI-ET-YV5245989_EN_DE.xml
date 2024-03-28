@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?teipublisher template="letters_ehri.html"?><?xml-model href="../../Guidelines/out/Documentation-Correspondance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-model href="../../Guidelines/out/Documentation-Correspondance.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:id="EHRI-ET-YV5245989_EN" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
